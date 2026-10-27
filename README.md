@@ -36,6 +36,3 @@ the weight vectors and confirms the direction holds for every combination.
   (full text, abstract only, and so on).
 - **Category index**: one row per source and category, for tracing each count back
   to the studies behind it.
-
-**Status:** the totals follow the paper. Paper-by-paper coding has not been fully
-verified. Rows marked "Review needed" or "To confirm" are still being checked.
