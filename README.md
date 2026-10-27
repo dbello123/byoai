@@ -5,7 +5,7 @@ Supporting materials for *"Governing Bring Your Own AI: A Parameterized Maturity
 | File | What it is |
 |---|---|
 | `sensitivity.py` | Sensitivity analysis for the parameterized governance model |
-| `CARS_IEEE_Paper_Reported_Results.xlsx` | Literature-review coding behind the paper's reported results |
+| `data/CARS_IEEE_Paper_Reported_Results.xlsx` | Literature-review coding behind the paper's reported results |
 | `requirements.txt` | Python dependencies (numpy) |
 
 ## Sensitivity analysis
@@ -26,7 +26,7 @@ the weight vectors and confirms the direction holds for every combination.
 
 ## Literature-review results
 
-`CARS_IEEE_Paper_Reported_Results.xlsx` has three sheets:
+`data/CARS_IEEE_Paper_Reported_Results.xlsx` has three sheets:
 
 - **Paper results**: the counts reported in Tables I and II. Risk categories are
   out of 24 studies and framework families out of 30. A study can fall under more
